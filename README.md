@@ -1,4 +1,8 @@
-### Hello there 👋
+### Hello there 👋 I am Andrey
+
+- WEB Developer
+- Currently studying at [Rolling Scopes School](https://github.com/rolling-scopes-school)
+- Get in touch: [Telegram](https://t.me/a9949)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlkv&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
