@@ -1,6 +1,5 @@
-### Hello there 👋 I am Andrey
+### Hello there 👋
 
-- WEB Developer
 - Get in touch: [Telegram](https://t.me/a9949), [Email](mailto:aaa144855@gmail.com)
 
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tlkv&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
